@@ -1,0 +1,32 @@
+[
+    {
+        "img": "/img/car1.jpg",
+        "nombreServicio": "1. Asesoría nutricional personalizada",
+        "descripcion": "Te ofrezco asesoría nutricional 100% personalizada, enfocada en tu objetivo (patología, perdida, ganancia o mantenimiento de peso), por medio de asesorias 100% online.  Agenda tu cita, llena tu ficha clínica, realiza tu pago, recibe una videollamada, recibes tu plan de alimentación, recibes videollamada para resolver dudas. Cada plan de alimentación tiene una duración de entre 15 a 21 días para cada re consulta."
+    },
+    {
+        "img": "/img/car2.jpg",
+        "nombreServicio": "2. Challenge to be healthy",
+        "descripcion": "Es una comunidad donde  1 vez al mes realizo un reto o challenge en el que realizo un menú generalizado por porciones y macro nutrientes personalizados. Es un trabajo en equipo ya que formamos un grupo en Instagram en el cual nos estamos compartiendo información y motivación."
+    },
+    {
+        "img": "/img/car3.jpg",
+        "nombreServicio": "3. Asesoría y venta de suplementos",
+        "descripcion": "Mensualmente envío cajas de suplementos nutricionales en los cuales incluyo: proteínas, aminoácidos, colágeno, multivitamínicos para todas las edades y más. Para obtener este servicio debes enviarme un mensaje directo: Fb, Instagram o WhatsApp y yo te enviaré el catálogo de las marcas y tipos de suplementos que distribuyo, precios y fecha de envio. Para confirmar tu orden debes realizar un depósito del 50% de anticipo, también manejo precios por mayor."
+    },
+    {
+        "img": "/img/car4.jpg",
+        "nombreServicio": "4. Asesoría Lactancia Materna exitosa",
+        "descripcion": "Recientemente obtuve mi segunda certificación en lactancia y embarazo por lo que puedo ayudarte a tener un embarazo saludable para ti en control de peso y brindándote la mejor alimentación para un desarrollo saludable para tu bebé."
+    },
+    {
+        "img": "/img/car5.jpg",
+        "nombreServicio": "5. Asesoría Nutricional durante el embarazo",
+        "descripcion": "¿Deseas ser mamá lactante y dar lactancia materna exclusiva o mixta?. Puedo brindarte la información que necesitas para hacer este proceso un poco más sencillo y que tú puedas lograrlo con éxito. En este servicio abordamos temas como mitos sobre la lactancia, alimentación durante la lactancia, apego seguro y producción."
+    },
+    {
+        "img": "/img/car6.jpg",
+        "nombreServicio": "6. Asesoría nutricional infantil",
+        "descripcion": "Recientemente obtuve una especialización y certificación en alimentación infantil, por lo que puedo brindarte ayuda para mejorar hábitos alimenticios en niños y adolescentes, por medio de alimentación saludable y creativa especial para cada etapa de crecimiento y desarrollo."
+    }
+]
