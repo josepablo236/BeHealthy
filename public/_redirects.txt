@@ -1,0 +1,3 @@
+/*    /    200
+/contacto    /contacto    200
+/servicios    /servicios    200

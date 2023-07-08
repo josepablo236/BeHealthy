@@ -1,0 +1,205 @@
+body {
+  color: #702f43;
+}
+
+header{
+  /*100% de lo que ocupa la pantalla*/
+  height: 80vh;
+  background-image: linear-gradient(to top, rgba(122, 55, 92, 0.404) 0%, #110e1042 100%),url(/src/img/vegetales.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  color: white;
+}
+
+.titulo{
+  font-size: 70px;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+.menu{
+  width: 50px;
+  margin-right: 1rem;
+}
+
+.contenedor{
+  text-align: center;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /*Separar elementos*/
+  flex-direction: column;
+  margin-top: 0;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+a{
+  color: #b54960 !important;
+}
+
+a:hover{
+  color: #702f43 !important;
+}
+
+.icono{
+  color: #702f43 !important;
+}
+
+.titulo-seccion{
+  font-size: 40px;
+  font-weight: bold;
+  color: #b54960;
+  margin-bottom: 2rem;
+}
+
+.titulo-contenedor{
+  text-align: center;
+  align-items: center;
+  display: flex;
+  margin-top: 2em;
+  margin-bottom: 0;
+}
+
+.cv{
+  display: flex;
+  align-items: center;
+}
+
+.sobremi{
+  max-width: 1080px;
+  background-color: white;
+  border-color: rgb(248, 194, 194);
+  border-width: 2.5px;
+}
+
+.beHealthy{
+  max-width: 1080px;
+  background-color: rgb(248, 194, 194);
+  border-color: rgb(248, 194, 194);
+  border-width: 2.5px;
+}
+
+.pasos{
+  text-align: center;
+  padding: 0;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /*Separar elementos*/
+  flex-direction: column;
+  font-size: 20px;
+}
+
+.paso{
+  margin-bottom: 0;
+}
+
+.imagen-pasos{
+  margin: 0;
+}
+
+.tracks-container{
+  display: flex;
+  flex-direction: row;
+  overflow-x: scroll;
+  /* background-color: #faf1f1; */
+}
+
+.tracks-container-item{
+  display: flex;
+  flex-direction: row;
+}
+
+.img-slide{
+  height: 350px;
+  width: 600px;
+  opacity: 0.85;
+}
+
+.list-item{
+  transition: all 0.3s ease;
+  padding: 0.1rem;
+}
+
+
+footer{
+  background-color: #eec6ce;
+  /* Evita el colapso de margenes */
+  padding-bottom: 0.1px;
+}
+.footer-content{
+  display: flex; 
+  /* Elementos uno al lado del otro pero en las esquinas */
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap; 
+  padding-top: 60px;
+  padding-bottom: 40px;
+  text-align: left;
+}
+
+.img-servicios{
+  height: 350px;
+}
+
+.text-justify {
+  text-align: justify;
+}
+
+.social-icon {
+  width: 200px;
+  height: 200px;
+}
+
+.css-i4bv87-MuiSvgIcon-root{
+  font-size: 1.7rem !important;
+}
+
+.social a {
+  text-align: center;
+  font-size: 20px;
+  transition: background-color 0.3s ease;
+}
+
+.boton-primario{
+  background-color: #702f43 !important;
+  color: white;
+}
+
+.boton{
+  display: inline-block;
+  width: 250px;
+  font-weight: 400;
+  line-height: 1.5;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  vertical-align: middle;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+  background-color: transparent;
+  border: 1px solid transparent;
+  padding: 0.375rem 0.75rem;
+  font-size: 1rem;
+  border-radius: 0.25rem;
+}
+
+.invitacion{
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.derecha{
+  float: right;
+}
